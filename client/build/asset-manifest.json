@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.787cbc0e.css",
+    "main.js": "/static/js/main.154e3320.js",
+    "static/media/nsf-logo.png": "/static/media/nsf-logo.d156ec56aa782f622f02.png",
+    "static/media/claflin.png": "/static/media/claflin.a0e121d62cd488d73b46.png",
+    "static/media/scientists-lab.png": "/static/media/scientists-lab.d4b4bec38faaf98b5ae7.png",
+    "static/media/instagram.png": "/static/media/instagram.77fb9ecb1865c8440c29.png",
+    "static/media/facebook.png": "/static/media/facebook.ce8b512b93bc292c5511.png",
+    "static/media/usc-logo.svg": "/static/media/usc-logo.4b4446a48f5a7aaf9ecc554eef9b8aa1.svg",
+    "index.html": "/index.html",
+    "static/media/delete-icon.svg": "/static/media/delete-icon.43239033dcfbe7327f934b3cf0fad17f.svg",
+    "main.787cbc0e.css.map": "/static/css/main.787cbc0e.css.map",
+    "main.154e3320.js.map": "/static/js/main.154e3320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.787cbc0e.css",
+    "static/js/main.154e3320.js"
+  ]
+}
