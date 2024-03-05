@@ -446,6 +446,7 @@ class ProcessManager:
         del self.column_groupings
 
 @app.route('/')
+@app.route('/upload-data')
 @cross_origin()
 def serve():
     return send_from_directory(app.static_folder,'index.html')
